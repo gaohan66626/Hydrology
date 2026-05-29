@@ -1,0 +1,6 @@
+{
+  "name": "水力学实验数据可视化与分析系统",
+  "description": "水力学实验室报告高级可视化系统，包含静水压强、文丘里、雷诺、局部损失和动量定律等五个经典实验的交互图表、数据校验及实验原理动态演示。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
